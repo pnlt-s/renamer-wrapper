@@ -1,1 +1,1 @@
-this is a wrapper for [oracle ranamer](https://renamer.mshq.dev/), built on [Rust](https://rust-lang.org)
+this is a wrapper for [oracle ranamer](https://renamer.mshq.dev/), built on Python
